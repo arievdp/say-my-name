@@ -1,5 +1,7 @@
 # Say My Name
 
+Winner of the WDCC Hackathon (Auckland)
+
 At the beginning of each new semester or school year, teachers and students are faced with the challenge of remembering the names of a large number of new students.
 
 Say My Name is a WDCC Hackathon project to help students and teachers memorise the names of their classmates. The project is designed to be used in collaboration with universities to improve the student orientation experience.
